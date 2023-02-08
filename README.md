@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/lucwx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucwx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucwx&layout=compact&langs_count=5&hide=java,css&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucwx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucwx&layout=compact&langs_count=5&theme=dark"/>
+    
 </div>
 
 <div style="display: flex; justify-content:center; text-align:center;">
@@ -15,5 +16,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   </div>
-  
 </div>
