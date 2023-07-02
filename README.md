@@ -5,8 +5,8 @@
   <!--<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucwx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
     <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6439e9c211a85692d8945c0a?variant=dark" alt="roadmap.sh"/></a>
     
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucwx&layout=full&langs_count=5&theme=dark"/>
-</div>
+  <!-- <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucwx&layout=full&langs_count=5&theme=dark"/>
+</div> -->
 
 <div style="display: flex; justify-content:center; text-align:center;">
   <br>
