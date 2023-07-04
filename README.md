@@ -1,12 +1,30 @@
-## Olá, eu sou o Lucas
+# Lucas - Portfólio de Desenvolvedor
 
-<div align="center" style="display: flex; ">
-  <a href="https://github.com/lucwx">
-  <!--<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucwx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6439e9c211a85692d8945c0a?variant=dark&roadmaps=frontend%2Cjavascript%2Cfull-stack%2Caspnet-core" alt="roadmap.sh"/></a>
-    
-  <!-- <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucwx&layout=full&langs_count=5&theme=dark"/>
-</div> -->
+### Bem-vindo ao meu repositório! Aqui você encontrará meu portfólio com projetos que demonstram minhas habilidades nas seguintes tecnologias:
+
+#### Tecnologias:
+* HTML
+* CSS
+* Tailwind CSS
+* Bootstrap
+* JavaScript
+* React
+* Vue.js
+* C#
+* Git
+
+#### Sobre mim
+Olá! Meu nome é Lucas e sou um entusiasta da programação. Tenho paixão por desenvolver soluções criativas e funcionais que agregam valor aos usuários. Sou especializado em desenvolvimento web front-end e tenho experiência com tecnologias modernas, como React e Vue.js. Além disso, também estudo C# e ASP.NET para desenvolvimento back-end.
+
+Projetos Destacados
+Aqui estão alguns dos meus projetos mais recentes:
+
+**Projeto Pomodoro**: Um site responsivo desenvolvido com HTML, CSS e JavaScript de um contador para a técnica pomodoro. Ele apresenta um design moderno e intuitivo, com animações suaves e efeitos interativos.
+
+Obrigado por visitar meu repositório! Espero que você encontre meus projetos interessantes e que possamos colaborar no futuro.
+
+<div align="center" style="display: flex; ">    
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6439e9c211a85692d8945c0a?variant=dark&roadmaps=frontend%2Cjavascript%2Cfull-stack%2Caspnet-core" alt="roadmap.sh"/></a>
 
 <div style="display: flex; justify-content:center; text-align:center;">
   <br>
