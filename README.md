@@ -1,27 +1,11 @@
-# Lucas - Portfólio de Desenvolvedor
+# Developer Portfolio
 
-### Bem-vindo ao meu repositório! Aqui você encontrará meu portfólio com projetos que demonstram minhas habilidades nas seguintes tecnologias:
+### Welcome to my repo! Here you will find my portfolio with projects that demonstrate my skills
 
-#### Tecnologias:
-* HTML
-* CSS
-* Tailwind CSS
-* Bootstrap
-* JavaScript
-* React
-* Vue.js
-* C#
-* Git
+#### Tecnologies:
+* HTML * CSS * Tailwind CSS * Bootstrap * JavaScript * React * Vue.js * C# * Git
 
-#### Sobre mim
-Olá! Meu nome é Lucas e sou um entusiasta da programação. Tenho paixão por desenvolver soluções criativas e funcionais que agregam valor aos usuários. Sou especializado em desenvolvimento web front-end e tenho experiência com tecnologias modernas, como React e Vue.js. Além disso, também estudo C# e ASP.NET para desenvolvimento back-end.
-
-Projetos Destacados
-Aqui estão alguns dos meus projetos mais recentes:
-
-**Projeto Pomodoro**: Um site responsivo desenvolvido com HTML, CSS e JavaScript de um contador para a técnica pomodoro. Ele apresenta um design moderno e intuitivo, com animações suaves e efeitos interativos.
-
-Obrigado por visitar meu repositório! Espero que você encontre meus projetos interessantes e que possamos colaborar no futuro.
+Thanks to visit my repository!
 
 <div align="center" style="display: flex; ">    
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6439e9c211a85692d8945c0a?variant=dark&roadmaps=frontend%2Cjavascript%2Cfull-stack%2Caspnet-core" alt="roadmap.sh"/></a>
