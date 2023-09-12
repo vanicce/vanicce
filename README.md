@@ -1,4 +1,4 @@
-## Hello, welcome to my repo!
+## Hello, welcome to my repo! 🌊
 
 My name is Lucas, I'm 19yo. I love visual programming and design in general.
 
