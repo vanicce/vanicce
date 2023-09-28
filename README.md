@@ -14,6 +14,6 @@ Here you will find my portfolio with projects that demonstrate my skills.
 
 Thanks to visit my repository!
 
-<img src="./giphy.gif" width="70%" height="170px" style="background-size: cover;" >
+<img src="./giphy.gif" height="170px" >
 
 <em> "I don't like the idea that I’m not in control of my life" – Neo (The Matrix) </em>
