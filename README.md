@@ -12,8 +12,6 @@ Here you will find my portfolio with projects that demonstrate my skills.
 
 <strong> I made everthing with <3 </strong>
 
+<em> "I don't like the idea that I’m not in control of my life"</em>
+
 Thanks to visit my repository!
-
-<img src="./giphy.gif" height="170px" >
-
-<em> "I don't like the idea that I’m not in control of my life" – Neo (The Matrix) </em>
